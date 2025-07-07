@@ -10,6 +10,7 @@
     "start:dev": "yarn && cross-env NODE_ENV=dev nest start --watch"
   },
   "dependencies": {
+    "@automapper/classes": "^8.8.1",
     "@nestjs/common": "^10.0.0",
     "@nestjs/config": "^4.0.2",
     "@nestjs/core": "^10.0.0",
